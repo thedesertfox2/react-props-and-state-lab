@@ -78,12 +78,12 @@ descendants:
 
 ### `Filters`
 
-1.  Should receive an `onChangeType` callback prop. This callback prop gets
+<!-- 1.  Should receive an `onChangeType` callback prop. This callback prop gets
     called whenever the value of the `<select>` element changes with the
-    **value** of the `<select>`
+    **value** of the `<select>` -->
 
-2.  Should receive an `onFindPetsClick` callback prop. This callback prop gets
-    called when the users clicks the 'Find pets' button.
+<!-- 2.  Should receive an `onFindPetsClick` callback prop. This callback prop gets
+    called when the users clicks the 'Find pets' button. -->
 
 ### `PetBrowser`
 
